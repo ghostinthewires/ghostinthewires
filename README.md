@@ -11,7 +11,7 @@
 <em><p align="center"><a href="https://dev.to/ghostinthewire5">Why not check out my blog all about Azure</a></p></em>
 <p>
 
-<p align="right">
+<p align="center">
     <a href="https://azurechecklist.com/"><img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/azurereadinesschecklist.gif?raw=true" width="700">
 </p>
 
