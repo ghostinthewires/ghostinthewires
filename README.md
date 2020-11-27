@@ -1,4 +1,4 @@
-## <center> <h1> [![ghostinthewires header](https://github.com/ghostinthewires/ghostinthewires/blob/main/images/andrew.webp?raw=true)](https://azurechecklist.com/)</center>
+## <center> <h1> [![ghostinthewires header](https://github.com/ghostinthewires/ghostinthewires/blob/main/images/mvp.webp?raw=true)](https://azurechecklist.com/)</center>
 
 <p align='center'>
 <a href="https://twitter.com/GhostInTheWire5"><img height="30" src="https://github.com/ghostinthewires/ghostinthewires/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
