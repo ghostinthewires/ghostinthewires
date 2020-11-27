@@ -12,7 +12,7 @@
 <p>
 
 <p align="right">
-    <a href="https://azurechecklist.com/"><img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/azurereadinesschecklist.gif?raw=true" width="307">
+    <a href="https://azurechecklist.com/"><img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/azurereadinesschecklist.gif?raw=true" width="700">
 </p>
 
 ### :globe_with_meridians: Community
