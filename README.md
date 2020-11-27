@@ -1,8 +1,8 @@
-## [![ghostinthewires header](https://github.com/ghostinthewires/ghostinthewires/blob/master/images/andrew.webp?raw=true)](https://azurechecklist.com/)
+## <center> <h1> [![ghostinthewires header](https://github.com/ghostinthewires/ghostinthewires/blob/main/images/andrew.webp?raw=true)](https://azurechecklist.com/)</center>
 
 <p align='center'>
-<a href="https://twitter.com/GhostInTheWire5"><img height="30" src="https://github.com/ghostinthewires/ghostinthewires/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/ghostinthewire5"><img height="30" src="https://github.com/ghostinthewires/ghostinthewires/blob/master/images/devto.png?raw=true"></a>
+<a href="https://twitter.com/GhostInTheWire5"><img height="30" src="https://github.com/ghostinthewires/ghostinthewires/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/ghostinthewire5"><img height="30" src="https://github.com/ghostinthewires/ghostinthewires/blob/main/images/devto.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there! 👋🤓</h2>
@@ -11,7 +11,7 @@
 <em><p align="center"><a href="https://dev.to/ghostinthewire5">Why not check out my blog all about Azure</a></p></em>
 <p>
   
-  <a href="https://azurechecklist.com/"><img width="307" align='right' src="https://github.com/ghostinthewires/ghostinthewires/blob/master/images/azurereadinesschecklist.gif?raw=true"></a>
+  <a href="https://azurechecklist.com/"><img width="307" align='right' src="https://github.com/ghostinthewires/ghostinthewires/blob/main/images/azurereadinesschecklist.gif?raw=true"></a>
 </p>
 
 ### :globe_with_meridians: Community
