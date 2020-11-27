@@ -11,7 +11,7 @@
 <em><p align="center"><a href="https://dev.to/ghostinthewire5">Why not check out my blog all about Azure</a></p></em>
 <p>
   
-  <a href="https://azurechecklist.com/"><img width="307" align='right' src="https://github.com/ghostinthewires/ghostinthewires/blob/main/images/azurereadinesschecklist.gif?raw=true"></a>
+  <a href="https://azurechecklist.com/"><img width="307" align='right' src="https://github.com/ghostinthewires/ghostinthewires/blob/main/images/azurereadinesschecklist.gif"></a>
 </p>
 
 ### :globe_with_meridians: Community
