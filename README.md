@@ -20,7 +20,8 @@
 
 ### 💻 Projects
 - Created <a href="https://azurechecklist.com/">Azure Checklist</a> to help the community build better Azure infrastructure using best practices.
-
+- Created an <a href="https://ghostinthewires.github.io/Engineering-Handbook/">Engineering Handbook</a> to help the community build better Engineering Teams using best practices.
+- Built a <a href="https://ghostinthewires.github.io/Tech-Radar/">Tech Radar</a> to help visualise our technology choices.
 
 
 ### 📫 Where to find me
